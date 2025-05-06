@@ -1,7 +1,7 @@
 # Minesweeper Game
 ## 🚀 How to Run the Game
 
-### 1. Navigate to the Source Directory
+### 1. Download the project repo and Navigate to the Source Directory
 Open your terminal and set the path to the Java folder:
 ```
 cd ${YOUR-PATH-TO}/assignmentOneMinesweeper/src/main/java
